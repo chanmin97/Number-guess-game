@@ -1,0 +1,18 @@
+.container {
+  border: 10px solid white;
+  border-radius: 20px;
+  text-align: center;
+  display: block;
+
+  background-color: rgba(247, 243, 242, 0.7);
+}
+
+body {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230518/pngtree-night-camping-nature-photography-starry-sky-campground-photography-image_2532326.png);
+}
