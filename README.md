@@ -2,6 +2,8 @@
 ![image](https://github.com/chanmin97/Number-guess-game/assets/92173657/e250a1df-6108-428f-99aa-b713b65c3439)
 술게임 Up Down에서 영감을 받은 프로젝트입니다.
 
+https://number-guess-game-ch.netlify.app/
+
 # 기능
 컴퓨터는 게임이 시작할때 랜덤한 숫자를 뽑는다
 
